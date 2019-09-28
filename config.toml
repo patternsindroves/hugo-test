@@ -15,7 +15,7 @@ theme = "hugo-minimalist-theme"
     site_description = "The awesome blog of Adam Carrillo."
     location = "Earth"
     # Link custom assets relative to /static
-    avatar = "img/profile-image.png"
+    avatar = "img/hugo.png"
     header_background = "img/desk.jpg"
     header_title = "Adam Carrillo Architecture"
     copyright = "Powered by [Hugo](http://gohugo.io)."
