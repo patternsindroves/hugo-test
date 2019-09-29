@@ -1,4 +1,4 @@
-baseurl = "https://www.beaucarrillo.com"
+baseurl = "https://beaucarrillo.com"
 languageCode = "en-us"
 title = "My Static site"
 # Define how many pages appear per site
