@@ -1,5 +1,5 @@
 ---
-title: "About AC Architecture"
+title: "About"
 date: 2019-09-28T11:27:18-07:00
 ---
 

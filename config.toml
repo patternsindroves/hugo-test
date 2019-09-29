@@ -11,13 +11,13 @@ theme = "hugo-minimalist-theme"
 
 
 [params]
-    site_author = "Tyler Carrillo"
-    site_description = "The awesome blog of Adam Carrillo."
+    site_author = "The author"
+    site_description = "The Blog"
     location = "Earth"
     # Link custom assets relative to /static
     avatar = "img/hugo.png"
     header_background = "img/desk.jpg"
-    header_title = "Adam Carrillo Architecture"
+    header_title = "Hugo Test Site"
     copyright = "Powered by [Hugo](http://gohugo.io)."
     custom_css = []
     custom_js  = []
