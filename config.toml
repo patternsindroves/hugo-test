@@ -1,6 +1,6 @@
-baseurl = "https://www.beaucarrillo.com"
+baseurl = "https://beaucarrillo.com"
 languageCode = "en-us"
-title = "My Static site"
+title = "Adam Carrillo Architecture"
 # Define how many pages appear per site
 paginate = 10
 # Enable comments powered by Disqus by entering your disqus shortname
