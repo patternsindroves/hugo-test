@@ -1,6 +1,6 @@
 ---
 title: "Code Syntax Tests"
-date: 2019-09-28T11:20:05-07:00
+date: 2019-10-12T11:20:05-07:00
 draft: false
 ---
 
@@ -25,3 +25,15 @@ console.log("hello there");
   background-color: black;
 }
 ```
+
+### Pseudocode (inline)
+`SELECT *
+FROM CUSTOMERS
+WHERE revenue > 1000000;`
+
+### Pseudocode (two tabs in)
+    for item in items
+      if item is not null
+        do something
+      else
+        do nothing
