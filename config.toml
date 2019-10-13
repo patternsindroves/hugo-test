@@ -43,9 +43,8 @@ disableHugoGeneratorInject = false
 [blackfriday]
   hrefTargetBlank = true
 
-[taxonomies]
-  tag      = "tags"
-  category = ""
+#[taxonomies]
+#  category = ""
 
 [params]
   dateform        = "Jan 2, 2006"
