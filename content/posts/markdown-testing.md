@@ -5,7 +5,8 @@ draft: false
 ---
 
 ### A picture
-![](/img/desk.jpg)
+#### Can add an #identifer directly following url src, then target with css
+![](/img/desk.jpg#post-photo)
 
 ### A block quote with emphases and link
 
@@ -23,7 +24,7 @@ draft: false
 
 - An item
 - Another item
-- ~~Last item~~
+- ~~Unwanted item~~
 
 ---
 
@@ -33,6 +34,6 @@ draft: false
 
 #### A table:
 | Header One     | Header Two     |
-| :------------- | :------------- |
+| :------------: | :------------: |
 | Item One       | Item Two       |
-| Item Three     | Item Four       |
+| Item Three     | Item Four      |
