@@ -72,14 +72,14 @@ disableHugoGeneratorInject = false
   justifyContent = false  # Set "text-align: justify" to .content.
 
   # Directory name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = ""
   # Default theme "light" or "dark"
   defaultTheme = "dark"
   themeColor = "#252627"
 
   [params.logo]
-    logoText     = "$ cd /dev/"
-    logoHomeLink = "/"
+    logoText     = "cd /dev/"
+    logoHomeLink = "https://beaucarrillo.com"
 
   # Social icons
   [[params.social]]
