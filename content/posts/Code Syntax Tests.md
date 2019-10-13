@@ -1,6 +1,7 @@
 ---
 title: "Code Syntax Tests"
 date: 2019-09-28T11:20:05-07:00
+draft: false
 ---
 
 ### Python
