@@ -1,8 +1,26 @@
 ---
-title: "Hello World"
+title: "Code Syntax Tests"
 date: 2019-09-28T11:20:05-07:00
 ---
 
-Welcome to my portfolio site!
+### Python
+```python
+import antigravity
+```
 
-There's not much here yet, but stay tuned.
+### Javascript
+```javascript
+console.log("hello there");
+```
+
+### HTML
+```html
+<blink>This is so annoying</blink>
+```
+
+### CSS
+```css
+.body {
+  background-color: black;
+}
+```
