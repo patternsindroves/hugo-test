@@ -12,7 +12,7 @@ draft: false
 
 > Interested in *learning* **more** [about me] (/about)?
 
-#### An ordered list:
+###### An ordered list:
 
 1. The first item
 2. The second item
@@ -23,7 +23,6 @@ draft: false
 #### An unordered list:
 
 - An item
-- Another item
 - ~~Unwanted item~~
 
 ---
